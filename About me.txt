@@ -1,11 +1,9 @@
       English
 - 👋 Hi, I’m @Stepanio
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Tor project
 - 📫 My Google Gmail stepapugavka@gmail.com
 
     Русский
 - 👋 Привет, я @Stepanio
 - 🌱 В настоящее время я изучаю Python
-- 💞️ Я ищу сотрудничество в проекте Tor
 - 📫 Мой Google Gmail stepapugavka@gmail.com
